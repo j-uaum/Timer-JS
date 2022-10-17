@@ -37,9 +37,15 @@ font-size: 12px;
 }
 #parar{
     padding: 15px;
+       margin-right: 4px;
     border: none;
     border-radius: 5px;
 
+}
+#refresh{
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
 }
 .btn{
     display: flex;
