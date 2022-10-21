@@ -60,3 +60,24 @@ input{
     padding: 15px;
 
 }
+
+#iniciar:hover{
+
+    transition: transform 100ms linear;
+    transform: scale(1.08);
+     background-color:#363636;
+
+}
+#parar:hover{
+
+    transition: transform 100ms linear;
+    transform: scale(1.08);
+    background-color:#363636;
+}
+#refresh:hover{
+
+    transition: transform 100ms linear;
+    transform: scale(1.08);
+    background-color:#363636;
+}
+
